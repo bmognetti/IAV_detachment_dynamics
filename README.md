@@ -1,1 +1,1 @@
-# IAV_detachment_dynamics
+Repository containing the program which has been used to implement the theory presented in [T. Kolbe, P. Gaspard, B. M. Mognetti, submitted ()]. Contributions using the material provided in this repository should cite this paper.
